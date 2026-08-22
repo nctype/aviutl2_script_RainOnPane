@@ -1,5 +1,5 @@
 # RainOnPane
-[<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/25dc1905-511a-411f-80fb-627cca1967a2" />](https://github.com/user-attachments/assets/6b087969-c4b6-4a43-a6fd-9cd1ebd3a56f)
+https://github.com/user-attachments/assets/995574fb-db84-49bb-95fa-b791644a4775
 下の言語をクリックすると説明を展開できます。  
 点击下面的语言即可展开说明。  
 Click a language below to expand the documentation.
