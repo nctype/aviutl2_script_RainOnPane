@@ -1,0 +1,38 @@
+[Language]
+Information=English language for RainOnPane 1.0.8
+SubLanguage=English
+
+[RainOnPane]
+雨粒=Droplets
+密度=Density
+サイズ=Size
+更新速度=Renewal Speed
+雨粒屈折=Droplet Refraction
+流れ=Streaks
+数=Count
+長さ=Length
+太さ=Width
+流速=Speed
+流れ屈折=Streak Refraction
+雨筋=Rain marks
+雨筋幅=Rain Mark Width
+曇り除去=Fog Removal
+雨粒除去=Droplet Removal
+縁の巻込み=Edge Capture
+雨筋保持時間=Rain Mark Hold Time
+再付着=Reattachment
+曇りの回復=Fog Recovery
+雨粒の再付着=Droplet Reattachment
+ガラス=Glass
+濡れ=Wetness
+立体感=Depth
+水のボケ=Water Softness
+ランダム=Randomness
+透明度=Opacity
+シード=Seed
+すりガラス=Frosted Glass
+すりガラスぼかし=Frost Blur
+すりガラス強度=Frost Strength
+曇り=Fogging
+曇りぼかし=Fog Blur
+曇り強度=Fog Strength
