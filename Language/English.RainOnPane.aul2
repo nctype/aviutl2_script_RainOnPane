@@ -1,5 +1,5 @@
 [Language]
-Information=English language for RainOnPane 1.0.8
+Information=English language for RainOnPane 1.1.0
 SubLanguage=English
 
 [RainOnPane]
@@ -36,3 +36,19 @@ SubLanguage=English
 曇り=Fogging
 曇りぼかし=Fog Blur
 曇り強度=Fog Strength
+変形=Transform
+四隅変形=Four-Corner Transform
+境界ぼかし=Edge Feather
+軽量プレビュー=Lightweight Preview
+左上X補正=Top Left X Offset
+左上Y補正=Top Left Y Offset
+左上=Top Left
+右上X補正=Top Right X Offset
+右上Y補正=Top Right Y Offset
+右上=Top Right
+右下X補正=Bottom Right X Offset
+右下Y補正=Bottom Right Y Offset
+右下=Bottom Right
+左下X補正=Bottom Left X Offset
+左下Y補正=Bottom Left Y Offset
+左下=Bottom Left
