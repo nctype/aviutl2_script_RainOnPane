@@ -1,6 +1,6 @@
 # RainOnPane
 
-[![Demo](preview.webp)](https://github.com/user-attachments/assets/995574fb-db84-49bb-95fa-b791644a4775)
+[![Demo/デモ](preview.webp)](https://github.com/user-attachments/assets/995574fb-db84-49bb-95fa-b791644a4775)
 
 ▶ **クリックして動画を再生**
 <details open>
