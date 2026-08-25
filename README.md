@@ -3,7 +3,7 @@
 https://github.com/user-attachments/assets/995574fb-db84-49bb-95fa-b791644a4775
 
 <details>
-<summary><strong>日本語 - クリックして表示</strong></summary>
+<summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
 
 ## 概要
 
@@ -90,7 +90,7 @@ RainOnPane は、処理したい背景の描画が完了した後に配置して
 </details>
 
 <details>
-<summary><strong>中文 - 点击查看</strong></summary>
+<summary><strong>中文</strong></summary>
 
 ## 概要
 
@@ -177,7 +177,7 @@ RainOnPane 可以从 **“自定义物件（カスタムオブジェクト）”
 </details>
 
 <details>
-<summary><strong>English - Click to view</strong></summary>
+<summary><strong>English</strong></summary>
 
 ## Overview
 
