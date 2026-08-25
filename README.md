@@ -39,7 +39,7 @@ RainOnPane は、処理したい背景の描画が完了した後に配置して
 
 ガラスに付着する微細な雨粒と、より密度の低い大きな雨粒を設定します。  
 密度、サイズ、更新速度、雨粒屈折を調整できます。更新速度を 0 にすると、雨粒の配置は静止します。  
-更新速度は `300` 前後がおすすめです。
+サイズは `300` 前後がおすすめです。
 
 ### 流れ
 
@@ -128,7 +128,7 @@ RainOnPane 可以从 **“自定义物件（カスタムオブジェクト）”
 
 设置附着在玻璃上的微小雨滴和较稀疏的大雨滴。  
 可以调整密度、尺寸、更新速度和雨滴折射。更新速度设为 0 时，雨滴布局保持静止。  
-更新速度推荐设在 `300` 左右。
+尺寸推荐设在 `300` 左右。
 
 ### 水流
 
@@ -217,7 +217,7 @@ The object reads the previously rendered frame and composites the glass effect o
 
 Controls the dense micro-droplets and the sparser large droplets attached to the glass.  
 Density, Size, Renewal Speed, and Droplet Refraction are adjustable. Setting Renewal Speed to 0 keeps the droplet layout static.  
-A Renewal Speed of around `300` is recommended.
+Size of around `300` is recommended.
 
 ### Streaks
 
