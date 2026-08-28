@@ -4,7 +4,9 @@
 
 ▲ ▼ **クリックして動画を再生**
 
-https://www.nicovideo.jp/watch/sm46728928
+▶️ [紹介動画(ニコニコ動画)](https://www.nicovideo.jp/watch/sm46728928)
+
+▶️ [紹介動画(Twitter)](https://x.com/nyaarara/status/2093126481790607818)
 
 <details open>
 <summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
@@ -100,6 +102,8 @@ RainOnPane は、処理したい背景の描画が完了した後に配置して
 
 ⚠️ 请在确认出现雨滴后再进行下一步操作，或者等待程序响应。放心，不会崩溃的。
 
+▶️ [介绍视频(BiliBili)](https://www.bilibili.com/video/BV1thhA6qEYX)
+
 ## 概要
 
 **RainOnPane** 是用于 AviUtl2 的雨窗玻璃自定义物件。  
@@ -188,6 +192,8 @@ RainOnPane 可以从 **“自定义物件（カスタムオブジェクト）”
 <summary><strong>English</strong></summary>
 
 ⚠️ Please make sure the raindrops have appeared before proceeding, or wait for the program to respond. Don't worry, it won't crash.
+
+▶️ [Overview Video(Twitter)](https://x.com/nyaarara/status/2093126481790607818)
 
 ## Overview
 
