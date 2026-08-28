@@ -2,7 +2,9 @@
 
 [![demo](preview.png)](https://github.com/user-attachments/assets/995574fb-db84-49bb-95fa-b791644a4775)
 
-▶ **クリックして動画を再生**
+▲ ▼ **クリックして動画を再生**
+
+https://www.nicovideo.jp/watch/sm46728928
 
 <details open>
 <summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
