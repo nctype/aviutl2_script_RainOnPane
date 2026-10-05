@@ -11,8 +11,6 @@
 <details open>
 <summary><strong>日本語　▲ 🌐 Switch Language</strong></summary>
 
-⚠️ 水滴が表示されたことを確認してから次の操作を行ってください。または、プログラムが応答するまでお待ちください。ご安心ください、クラッシュすることはありません。
-
 ## 概要
 
 **RainOnPane** は、AviUtl2 で雨に濡れた窓ガラスを再現するカスタムオブジェクトです。  
@@ -99,8 +97,6 @@ RainOnPane は、処理したい背景の描画が完了した後に配置して
 
 <details>
 <summary><strong>中文</strong></summary>
-
-⚠️ 请在确认出现雨滴后再进行下一步操作，或者等待程序响应。放心，不会崩溃的。
 
 ▶️ [介绍视频(BiliBili)](https://www.bilibili.com/video/BV1thhA6qEYX)
 
@@ -190,8 +186,6 @@ RainOnPane 可以从 **“自定义物件（カスタムオブジェクト）”
 
 <details>
 <summary><strong>English</strong></summary>
-
-⚠️ Please make sure the raindrops have appeared before proceeding, or wait for the program to respond. Don't worry, it won't crash.
 
 ▶️ [Overview Video(Twitter)](https://x.com/nyaarara/status/2093126481790607818)
 
